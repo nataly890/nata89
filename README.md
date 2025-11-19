@@ -32,6 +32,5 @@ git commit -m "Inicial: MVC minimal con CSV"
 # git push -u origin main
 ```
 
-Notas
-- Esto es una demo educativa; en un proyecto real usarías una base de datos y validaciones más robust
+
 
